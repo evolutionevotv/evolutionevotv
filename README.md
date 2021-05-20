@@ -10,4 +10,4 @@ If you feel like it, you can check out my website which features more informatio
 
 [evolutionevotv.pl](https://evolutionevotv.pl)
 
-If the domain above doesn't work, [Click here to visit the backup domain.](https://evo.is-great.net)
+If the domain above doesn't work, [Click here to visit the backup domain.](http://evo.is-great.net)
